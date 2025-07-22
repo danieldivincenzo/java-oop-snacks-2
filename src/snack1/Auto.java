@@ -1,4 +1,4 @@
-package snacks1;
+package snack1;
 
 public class Auto extends Veicolo {
     private int numeroPorte;
